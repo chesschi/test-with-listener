@@ -3,7 +3,7 @@ package com.pest.mutant.test;
 public class Algorithm {
 
 	public int sum(final int a, final int b) {
-		return a+b;
+		return a-b;
 	}
 	
 	public int sum(final int a, final int b, final int c) {
